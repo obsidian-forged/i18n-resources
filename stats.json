@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-30T20:15:57.916Z",
+  "lastUpdated": "2026-10-31T19:37:59.480Z",
   "repos": {
     "voxrs/obsidian-translations": {
       "authorName": "voxrs",
@@ -50,16 +50,16 @@
       "isArchived": false,
       "isFork": false,
       "repoSize": 30909,
-      "stars": 9,
+      "stars": 10,
       "forks": 0,
-      "watchers": 9,
+      "watchers": 10,
       "openIssuesCount": 0,
       "repoCreatedAt": "2026-06-16T22:20:06Z",
-      "repoUpdatedAt": "2026-10-29T14:03:28Z",
+      "repoUpdatedAt": "2026-10-31T08:02:41Z",
       "lastPushedAt": "2026-06-17T01:02:31Z",
       "recentCommits30d": 0,
       "totalContributors": 1,
-      "activityScore": 0.259,
+      "activityScore": 0.26,
       "pluginCount": 4581,
       "translationCount": 9366,
       "languages": [
@@ -443,15 +443,15 @@
       "topics": [],
       "isArchived": false,
       "isFork": false,
-      "repoSize": 3038,
+      "repoSize": 3211,
       "stars": 1,
       "forks": 1,
       "watchers": 1,
       "openIssuesCount": 0,
       "repoCreatedAt": "2026-05-25T02:40:02Z",
-      "repoUpdatedAt": "2026-10-28T10:24:37Z",
-      "lastPushedAt": "2026-10-28T10:24:35Z",
-      "recentCommits30d": 90,
+      "repoUpdatedAt": "2026-10-31T18:02:26Z",
+      "lastPushedAt": "2026-10-31T18:02:24Z",
+      "recentCommits30d": 84,
       "totalContributors": 1,
       "activityScore": 0.851,
       "pluginCount": 52,
@@ -459,7 +459,7 @@
       "languages": [
         "zh-tw"
       ],
-      "lastManifestUpdate": "2026-10-28T10:24:34.430Z"
+      "lastManifestUpdate": "2026-10-31T18:02:25.944Z"
     },
     "Siyin22/obsidian-i18n-resources": {
       "authorName": "Siyin22",
@@ -994,7 +994,7 @@
           "zh-tw"
         ],
         "activityScore": 0.851,
-        "lastActiveAt": "2026-10-28T10:24:35Z"
+        "lastActiveAt": "2026-10-31T18:02:24Z"
       },
       {
         "name": "yyyr-otz",
@@ -1040,12 +1040,12 @@
         "avatarUrl": "https://avatars.githubusercontent.com/u/144842921?v=4",
         "htmlUrl": "https://github.com/yunrr",
         "totalPlugins": 4581,
-        "totalStars": 9,
+        "totalStars": 10,
         "repoCount": 1,
         "languages": [
           "zh-cn"
         ],
-        "activityScore": 0.259,
+        "activityScore": 0.26,
         "lastActiveAt": "2026-06-17T01:02:31Z"
       },
       {
@@ -1117,10 +1117,10 @@
   },
   "summary": {
     "totalRepos": 29,
-    "totalPlugins": 0,
+    "totalPlugins": 52,
     "totalTranslations": 9915,
-    "totalContributors": 0,
-    "totalStars": 16,
+    "totalContributors": 1,
+    "totalStars": 17,
     "languageDistribution": {
       "zh-cn": 9863,
       "zh-tw": 52
