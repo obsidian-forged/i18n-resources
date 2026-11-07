@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-06T21:09:25.628Z",
+  "lastUpdated": "2026-11-07T13:39:31.533Z",
   "repos": {
     "voxrs/obsidian-translations": {
       "authorName": "voxrs",
@@ -955,6 +955,39 @@
         "zh-cn"
       ],
       "lastManifestUpdate": "2026-09-04T08:48:02.506Z"
+    },
+    "Fendi168/obsidian-i18n-resources": {
+      "authorName": "Fendi168",
+      "authorId": 150208846,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/150208846?v=4",
+      "authorType": "User",
+      "authorHtmlUrl": "https://github.com/Fendi168",
+      "repoName": "obsidian-i18n-resources",
+      "repoFullName": "Fendi168/obsidian-i18n-resources",
+      "description": "My Obsidian plugin translations (created by obsidian-i18n)",
+      "htmlUrl": "https://github.com/Fendi168/obsidian-i18n-resources",
+      "defaultBranch": "main",
+      "license": null,
+      "topics": [],
+      "isArchived": false,
+      "isFork": false,
+      "repoSize": 509,
+      "stars": 0,
+      "forks": 0,
+      "watchers": 0,
+      "openIssuesCount": 0,
+      "repoCreatedAt": "2026-10-31T02:16:54Z",
+      "repoUpdatedAt": "2026-11-05T13:27:07Z",
+      "lastPushedAt": "2026-11-05T13:27:04Z",
+      "recentCommits30d": 17,
+      "totalContributors": 1,
+      "activityScore": 0.585,
+      "pluginCount": 26,
+      "translationCount": 28,
+      "languages": [
+        "zh-cn"
+      ],
+      "lastManifestUpdate": "2026-11-05T13:24:56.067Z"
     }
   },
   "leaderboard": {
@@ -972,6 +1005,7 @@
     ],
     "topReposByActivity": [
       "Chico890921/obsidian-translations",
+      "Fendi168/obsidian-i18n-resources",
       "yyyr-otz/obsidian-translations",
       "ZergoWL/obsidian-i18n-resources",
       "kasori4869/obsidian-i18n-resources",
@@ -979,8 +1013,7 @@
       "yubolun/obsidian-i18n-resources",
       "win2ter/obsidian-translations",
       "voxrs/obsidian-translations",
-      "Anonym0usPlayer/obsidian-i18n-resources",
-      "Ayanami-Shinji/obsidian-i18n-resources"
+      "Anonym0usPlayer/obsidian-i18n-resources"
     ],
     "topAuthors": [
       {
@@ -995,6 +1028,19 @@
         ],
         "activityScore": 0.831,
         "lastActiveAt": "2026-10-31T18:02:24Z"
+      },
+      {
+        "name": "Fendi168",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/150208846?v=4",
+        "htmlUrl": "https://github.com/Fendi168",
+        "totalPlugins": 26,
+        "totalStars": 0,
+        "repoCount": 1,
+        "languages": [
+          "zh-cn"
+        ],
+        "activityScore": 0.585,
+        "lastActiveAt": "2026-11-05T13:27:04Z"
       },
       {
         "name": "yyyr-otz",
@@ -1099,31 +1145,18 @@
         ],
         "activityScore": 0.25,
         "lastActiveAt": "2026-05-16T17:07:33Z"
-      },
-      {
-        "name": "Ayanami-Shinji",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/78525325?v=4",
-        "htmlUrl": "https://github.com/Ayanami-Shinji",
-        "totalPlugins": 37,
-        "totalStars": 0,
-        "repoCount": 1,
-        "languages": [
-          "zh-cn"
-        ],
-        "activityScore": 0.25,
-        "lastActiveAt": "2026-03-20T13:53:54Z"
       }
     ]
   },
   "summary": {
-    "totalRepos": 29,
+    "totalRepos": 30,
     "totalPlugins": 0,
-    "totalTranslations": 9915,
-    "totalContributors": 0,
+    "totalTranslations": 9943,
+    "totalContributors": 30,
     "totalStars": 18,
     "languageDistribution": {
-      "zh-cn": 9863,
-      "zh-tw": 52
+      "zh-tw": 52,
+      "zh-cn": 9891
     }
   }
 }
