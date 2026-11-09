@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-08T20:02:41.020Z",
+  "lastUpdated": "2026-11-09T23:54:23.037Z",
   "repos": {
     "voxrs/obsidian-translations": {
       "authorName": "voxrs",
@@ -1014,7 +1014,7 @@
       "lastPushedAt": "2026-11-02T12:04:34Z",
       "recentCommits30d": 4,
       "totalContributors": 1,
-      "activityScore": 0.43,
+      "activityScore": 0.33,
       "pluginCount": 8,
       "translationCount": 8,
       "languages": [
@@ -1098,7 +1098,7 @@
         "languages": [
           "zh-cn"
         ],
-        "activityScore": 0.43,
+        "activityScore": 0.33,
         "lastActiveAt": "2026-11-02T12:04:34Z"
       },
       {
