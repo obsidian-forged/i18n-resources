@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-10T21:34:17.564Z",
+  "lastUpdated": "2026-11-11T22:22:14.924Z",
   "repos": {
     "voxrs/obsidian-translations": {
       "authorName": "voxrs",
@@ -50,16 +50,16 @@
       "isArchived": false,
       "isFork": false,
       "repoSize": 30909,
-      "stars": 10,
+      "stars": 11,
       "forks": 0,
-      "watchers": 10,
+      "watchers": 11,
       "openIssuesCount": 0,
       "repoCreatedAt": "2026-06-16T22:20:06Z",
-      "repoUpdatedAt": "2026-10-31T08:02:41Z",
+      "repoUpdatedAt": "2026-11-11T15:22:04Z",
       "lastPushedAt": "2026-06-17T01:02:31Z",
       "recentCommits30d": 0,
       "totalContributors": 1,
-      "activityScore": 0.26,
+      "activityScore": 0.261,
       "pluginCount": 4581,
       "translationCount": 9366,
       "languages": [
@@ -443,23 +443,23 @@
       "topics": [],
       "isArchived": false,
       "isFork": false,
-      "repoSize": 3352,
+      "repoSize": 3394,
       "stars": 1,
       "forks": 1,
       "watchers": 1,
       "openIssuesCount": 0,
       "repoCreatedAt": "2026-05-25T02:40:02Z",
-      "repoUpdatedAt": "2026-11-07T17:25:10Z",
-      "lastPushedAt": "2026-11-07T17:25:08Z",
-      "recentCommits30d": 74,
+      "repoUpdatedAt": "2026-11-11T00:35:07Z",
+      "lastPushedAt": "2026-11-11T00:35:05Z",
+      "recentCommits30d": 64,
       "totalContributors": 1,
-      "activityScore": 0.851,
+      "activityScore": 0.821,
       "pluginCount": 52,
       "translationCount": 52,
       "languages": [
         "zh-tw"
       ],
-      "lastManifestUpdate": "2026-11-07T17:25:07.936Z"
+      "lastManifestUpdate": "2026-11-11T00:35:08.962Z"
     },
     "Siyin22/obsidian-i18n-resources": {
       "authorName": "Siyin22",
@@ -1059,8 +1059,8 @@
         "languages": [
           "zh-tw"
         ],
-        "activityScore": 0.851,
-        "lastActiveAt": "2026-11-07T17:25:08Z"
+        "activityScore": 0.821,
+        "lastActiveAt": "2026-11-11T00:35:05Z"
       },
       {
         "name": "Fendi168",
@@ -1132,12 +1132,12 @@
         "avatarUrl": "https://avatars.githubusercontent.com/u/144842921?v=4",
         "htmlUrl": "https://github.com/yunrr",
         "totalPlugins": 4581,
-        "totalStars": 10,
+        "totalStars": 11,
         "repoCount": 1,
         "languages": [
           "zh-cn"
         ],
-        "activityScore": 0.26,
+        "activityScore": 0.261,
         "lastActiveAt": "2026-06-17T01:02:31Z"
       },
       {
@@ -1183,10 +1183,10 @@
   },
   "summary": {
     "totalRepos": 31,
-    "totalPlugins": 0,
+    "totalPlugins": 52,
     "totalTranslations": 9951,
-    "totalContributors": 0,
-    "totalStars": 18,
+    "totalContributors": 1,
+    "totalStars": 19,
     "languageDistribution": {
       "zh-cn": 9899,
       "zh-tw": 52
