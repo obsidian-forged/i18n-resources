@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-15T20:39:51.234Z",
+  "lastUpdated": "2026-11-16T23:54:40.882Z",
   "repos": {
     "voxrs/obsidian-translations": {
       "authorName": "voxrs",
@@ -443,23 +443,23 @@
       "topics": [],
       "isArchived": false,
       "isFork": false,
-      "repoSize": 3407,
+      "repoSize": 3426,
       "stars": 1,
       "forks": 1,
       "watchers": 1,
       "openIssuesCount": 0,
       "repoCreatedAt": "2026-05-25T02:40:02Z",
       "repoUpdatedAt": "2026-11-11T00:35:07Z",
-      "lastPushedAt": "2026-11-14T05:44:17Z",
-      "recentCommits30d": 56,
+      "lastPushedAt": "2026-11-16T12:11:02Z",
+      "recentCommits30d": 58,
       "totalContributors": 1,
-      "activityScore": 0.7809999999999999,
-      "pluginCount": 52,
-      "translationCount": 52,
+      "activityScore": 0.7909999999999999,
+      "pluginCount": 53,
+      "translationCount": 53,
       "languages": [
         "zh-tw"
       ],
-      "lastManifestUpdate": "2026-11-14T05:44:28.564Z"
+      "lastManifestUpdate": "2026-11-16T12:11:18.525Z"
     },
     "Siyin22/obsidian-i18n-resources": {
       "authorName": "Siyin22",
@@ -1053,14 +1053,14 @@
         "name": "Chico890921",
         "avatarUrl": "https://avatars.githubusercontent.com/u/32149972?v=4",
         "htmlUrl": "https://github.com/Chico890921",
-        "totalPlugins": 52,
+        "totalPlugins": 53,
         "totalStars": 1,
         "repoCount": 1,
         "languages": [
           "zh-tw"
         ],
-        "activityScore": 0.7809999999999999,
-        "lastActiveAt": "2026-11-14T05:44:17Z"
+        "activityScore": 0.7909999999999999,
+        "lastActiveAt": "2026-11-16T12:11:02Z"
       },
       {
         "name": "Fendi168",
@@ -1183,13 +1183,13 @@
   },
   "summary": {
     "totalRepos": 31,
-    "totalPlugins": 0,
-    "totalTranslations": 9951,
-    "totalContributors": 0,
+    "totalPlugins": 53,
+    "totalTranslations": 9952,
+    "totalContributors": 1,
     "totalStars": 19,
     "languageDistribution": {
       "zh-cn": 9899,
-      "zh-tw": 52
+      "zh-tw": 53
     }
   }
 }
