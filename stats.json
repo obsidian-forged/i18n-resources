@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-20T22:26:22.365Z",
+  "lastUpdated": "2026-11-21T21:20:37.005Z",
   "repos": {
     "voxrs/obsidian-translations": {
       "authorName": "voxrs",
@@ -443,23 +443,23 @@
       "topics": [],
       "isArchived": false,
       "isFork": false,
-      "repoSize": 3480,
+      "repoSize": 3604,
       "stars": 1,
       "forks": 1,
       "watchers": 1,
       "openIssuesCount": 0,
       "repoCreatedAt": "2026-05-25T02:40:02Z",
       "repoUpdatedAt": "2026-11-11T00:35:07Z",
-      "lastPushedAt": "2026-11-18T12:54:20Z",
-      "recentCommits30d": 44,
+      "lastPushedAt": "2026-11-21T19:31:38Z",
+      "recentCommits30d": 46,
       "totalContributors": 1,
-      "activityScore": 0.721,
-      "pluginCount": 53,
-      "translationCount": 53,
+      "activityScore": 0.731,
+      "pluginCount": 54,
+      "translationCount": 54,
       "languages": [
         "zh-tw"
       ],
-      "lastManifestUpdate": "2026-11-18T12:53:40.746Z"
+      "lastManifestUpdate": "2026-11-21T19:31:38.509Z"
     },
     "Siyin22/obsidian-i18n-resources": {
       "authorName": "Siyin22",
@@ -1053,14 +1053,14 @@
         "name": "Chico890921",
         "avatarUrl": "https://avatars.githubusercontent.com/u/32149972?v=4",
         "htmlUrl": "https://github.com/Chico890921",
-        "totalPlugins": 53,
+        "totalPlugins": 54,
         "totalStars": 1,
         "repoCount": 1,
         "languages": [
           "zh-tw"
         ],
-        "activityScore": 0.721,
-        "lastActiveAt": "2026-11-18T12:54:20Z"
+        "activityScore": 0.731,
+        "lastActiveAt": "2026-11-21T19:31:38Z"
       },
       {
         "name": "Fendi168",
@@ -1183,13 +1183,13 @@
   },
   "summary": {
     "totalRepos": 31,
-    "totalPlugins": 0,
-    "totalTranslations": 9952,
-    "totalContributors": 0,
+    "totalPlugins": 54,
+    "totalTranslations": 9953,
+    "totalContributors": 1,
     "totalStars": 19,
     "languageDistribution": {
       "zh-cn": 9899,
-      "zh-tw": 53
+      "zh-tw": 54
     }
   }
 }
