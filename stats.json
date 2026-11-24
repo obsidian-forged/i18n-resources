@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-22T21:24:32.384Z",
+  "lastUpdated": "2026-11-24T02:40:46.204Z",
   "repos": {
     "voxrs/obsidian-translations": {
       "authorName": "voxrs",
@@ -443,23 +443,23 @@
       "topics": [],
       "isArchived": false,
       "isFork": false,
-      "repoSize": 3604,
+      "repoSize": 3674,
       "stars": 1,
       "forks": 1,
       "watchers": 1,
       "openIssuesCount": 0,
       "repoCreatedAt": "2026-05-25T02:40:02Z",
       "repoUpdatedAt": "2026-11-11T00:35:07Z",
-      "lastPushedAt": "2026-11-21T19:31:38Z",
-      "recentCommits30d": 44,
+      "lastPushedAt": "2026-11-23T12:29:32Z",
+      "recentCommits30d": 46,
       "totalContributors": 1,
-      "activityScore": 0.721,
+      "activityScore": 0.731,
       "pluginCount": 54,
       "translationCount": 54,
       "languages": [
         "zh-tw"
       ],
-      "lastManifestUpdate": "2026-11-21T19:31:38.509Z"
+      "lastManifestUpdate": "2026-11-23T12:29:32.334Z"
     },
     "Siyin22/obsidian-i18n-resources": {
       "authorName": "Siyin22",
@@ -882,7 +882,7 @@
       "lastPushedAt": "2026-08-25T11:43:25Z",
       "recentCommits30d": 0,
       "totalContributors": 1,
-      "activityScore": 0.11,
+      "activityScore": 0.06,
       "pluginCount": 3,
       "translationCount": 3,
       "languages": [
@@ -1059,8 +1059,8 @@
         "languages": [
           "zh-tw"
         ],
-        "activityScore": 0.721,
-        "lastActiveAt": "2026-11-21T19:31:38Z"
+        "activityScore": 0.731,
+        "lastActiveAt": "2026-11-23T12:29:32Z"
       },
       {
         "name": "Fendi168",
@@ -1183,9 +1183,9 @@
   },
   "summary": {
     "totalRepos": 31,
-    "totalPlugins": 0,
+    "totalPlugins": 54,
     "totalTranslations": 9953,
-    "totalContributors": 0,
+    "totalContributors": 1,
     "totalStars": 19,
     "languageDistribution": {
       "zh-cn": 9899,
