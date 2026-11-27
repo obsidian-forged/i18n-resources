@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-25T23:54:17.185Z",
+  "lastUpdated": "2026-11-27T00:10:27.991Z",
   "repos": {
     "voxrs/obsidian-translations": {
       "authorName": "voxrs",
@@ -248,16 +248,16 @@
       "isArchived": false,
       "isFork": false,
       "repoSize": 392,
-      "stars": 4,
+      "stars": 5,
       "forks": 0,
-      "watchers": 4,
+      "watchers": 5,
       "openIssuesCount": 0,
       "repoCreatedAt": "2026-04-01T09:14:25Z",
-      "repoUpdatedAt": "2026-11-05T11:05:07Z",
+      "repoUpdatedAt": "2026-11-26T07:37:40Z",
       "lastPushedAt": "2026-04-23T06:19:45Z",
       "recentCommits30d": 0,
       "totalContributors": 1,
-      "activityScore": 0.254,
+      "activityScore": 0.255,
       "pluginCount": 32,
       "translationCount": 32,
       "languages": [
@@ -913,9 +913,9 @@
       "repoCreatedAt": "2026-08-23T09:48:36Z",
       "repoUpdatedAt": "2026-10-27T14:01:26Z",
       "lastPushedAt": "2026-10-27T14:01:24Z",
-      "recentCommits30d": 7,
+      "recentCommits30d": 0,
       "totalContributors": 1,
-      "activityScore": 0.436,
+      "activityScore": 0.301,
       "pluginCount": 72,
       "translationCount": 100,
       "languages": [
@@ -1039,8 +1039,8 @@
     "topReposByActivity": [
       "Chico890921/obsidian-translations",
       "Fendi168/obsidian-i18n-resources",
-      "yyyr-otz/obsidian-translations",
       "Frecely/obsidian-i18n-resources",
+      "yyyr-otz/obsidian-translations",
       "ZergoWL/obsidian-i18n-resources",
       "kasori4869/obsidian-i18n-resources",
       "yunrr/obsidian-translations",
@@ -1076,19 +1076,6 @@
         "lastActiveAt": "2026-11-05T13:27:04Z"
       },
       {
-        "name": "yyyr-otz",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/32903075?v=4",
-        "htmlUrl": "https://github.com/yyyr-otz",
-        "totalPlugins": 72,
-        "totalStars": 1,
-        "repoCount": 1,
-        "languages": [
-          "zh-cn"
-        ],
-        "activityScore": 0.436,
-        "lastActiveAt": "2026-10-27T14:01:24Z"
-      },
-      {
         "name": "Frecely",
         "avatarUrl": "https://avatars.githubusercontent.com/u/132866779?v=4",
         "htmlUrl": "https://github.com/Frecely",
@@ -1100,6 +1087,19 @@
         ],
         "activityScore": 0.33,
         "lastActiveAt": "2026-11-02T12:04:34Z"
+      },
+      {
+        "name": "yyyr-otz",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/32903075?v=4",
+        "htmlUrl": "https://github.com/yyyr-otz",
+        "totalPlugins": 72,
+        "totalStars": 1,
+        "repoCount": 1,
+        "languages": [
+          "zh-cn"
+        ],
+        "activityScore": 0.301,
+        "lastActiveAt": "2026-10-27T14:01:24Z"
       },
       {
         "name": "ZergoWL",
@@ -1145,12 +1145,12 @@
         "avatarUrl": "https://avatars.githubusercontent.com/u/30453265?v=4",
         "htmlUrl": "https://github.com/yubolun",
         "totalPlugins": 32,
-        "totalStars": 4,
+        "totalStars": 5,
         "repoCount": 1,
         "languages": [
           "zh-cn"
         ],
-        "activityScore": 0.254,
+        "activityScore": 0.255,
         "lastActiveAt": "2026-04-23T06:19:45Z"
       },
       {
@@ -1183,10 +1183,10 @@
   },
   "summary": {
     "totalRepos": 31,
-    "totalPlugins": 54,
+    "totalPlugins": 0,
     "totalTranslations": 9953,
-    "totalContributors": 1,
-    "totalStars": 19,
+    "totalContributors": 0,
+    "totalStars": 20,
     "languageDistribution": {
       "zh-cn": 9899,
       "zh-tw": 54
